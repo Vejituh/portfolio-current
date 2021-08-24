@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'pokedex-app.png',
     title: 'Pokedex app',
     info:
-      'This was a project that I built after finishing the Scrimba bootcamp. I used PokeAPI to fetch data and the React framework. This was a project that I research and made sure that accessibility was at the for front.',
+      'This was a project that I built after finishing the Scrimba bootcamp. I used PokeAPI to fetch data and the React framework. This was a project that I researched and made sure that accessibility was at the forefront.',
     info2: 'Tools used - HTML, CSS, JS, React, React Hooks, API & Fetch, NextJS, A11y',
     url: 'https://rafas-pokedex.netlify.app/',
     repo: 'https://github.com/rafaelg1402/react-pokemon', // if no repo, the button will not show up
