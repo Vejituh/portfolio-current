@@ -30,11 +30,19 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'booksbeyondni.png',
+    title: 'Books Beyond NI',
+    info:
+      'This was a project that I built after finishing the Scrimba bootcamp. I used PokeAPI to fetch data and the React framework. This was a project that I researched and made sure that accessibility was at the forefront.',
+    info2: 'Tools used - WordPress, Elementor, HTML, CSS, API, A11y',
+    url: 'https://booksbeyondni.com/',
+  },
+  {
+    id: nanoid(),
     img: 'pokedex-app.png',
     title: 'Pokedex app',
     info:
-      'This was a project that I built after finishing the Scrimba bootcamp. I used PokeAPI to fetch data and the React framework. This was a project that I researched and made sure that accessibility was at the forefront.',
-    info2: 'Tools used - HTML, CSS, JS, React, React Hooks, API & Fetch, NextJS, A11y',
+      'This project was built in collaboration with Ulster University. It was a 7 page website to do with writing in Northern Ireland and about diversity',
     url: 'https://rafas-pokedex.netlify.app/',
     repo: 'https://github.com/rafaelg1402/react-pokemon', // if no repo, the button will not show up
   },
